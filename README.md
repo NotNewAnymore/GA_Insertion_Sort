@@ -1,7 +1,8 @@
 # Guided Assignment - Implementing Insertion Sort in C#
 
 ## Introduction
-In this assignment, you will focus on implementing and understanding the Insertion Sort algorithm in C#. Insertion Sort is a simple and efficient sorting algorithm, especially useful for small data sets. It builds the final sorted array one item at a time. This assignment will help you learn the basics of sorting algorithms and their practical implementation in C#.
+
+Insertion Sort is a simple and efficient sorting algorithm that works by building the final sorted array one element at a time. It is called "Insertion Sort" because it repeatedly takes an element from the unsorted part of the array and inserts it into its correct position in the sorted part of the array.
 
 ### Pseudocode
 
